@@ -1,7 +1,7 @@
 # python_TIC_TAC_TOE
-**A simple game made by using basic functions **
+A simple game made by using basic functions 
 
-This is a summary of a** tic-tac-toe ** game written in Python and run in a Jupyter notebook. The game allows two players to choose their markers (X or O) and take turns placing them on a 3x3 board. The game ends when one player has three of their markers in a row, column, or diagonal, or when the board is full and there is no winner. The game uses the following functions:
+This is a summary of atic-tac-toe game written in Python and run in a Jupyter notebook. The game allows two players to choose their markers (X or O) and take turns placing them on a 3x3 board. The game ends when one player has three of their markers in a row, column, or diagonal, or when the board is full and there is no winner. The game uses the following functions:
 
 **display_board:** This function takes a list of 10 strings representing the board (index 0 is ignored) and prints the board with some formatting.
 **player_input:** This function asks player 1 to choose their marker and returns a tuple of (player 1 marker, player 2 marker).
